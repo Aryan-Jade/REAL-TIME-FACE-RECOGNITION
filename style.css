@@ -1,0 +1,44 @@
+body{
+    font-family: 'Dancing Script', cursive;
+}
+
+.heading{
+    font-size: 23px;
+    width: 100%;
+    box-shadow: 5px 5px 5px grey;
+    margin: 0px;
+}
+
+.heading_div{
+    float: none;
+    background-color: white;
+    padding: 10px;
+    border-radius: 20px;
+    color: black;
+    box-shadow: 5px 5px 5px grey;
+}
+
+.heading_div2{
+    font-size: 18px;
+}
+
+h4{
+    font-size: 20px;
+    box-shadow: 5px 5px 5px grey;
+}
+
+.copy_right_footer{
+    position: fixed;
+    background-color: white;
+    color: black;
+    bottom: 0;
+    width: 100%;
+    line-height: 3;
+    text-align: center;
+}
+
+canvas{
+    border: 5px dashed white;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px grey;
+}
